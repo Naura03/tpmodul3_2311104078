@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{58B27A4E-A0A1-4EBD-BC10-247880F872CC}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|c:\\users\\naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58B27A4E-A0A1-4EBD-BC10-247880F872CC}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|solutionrelative:tpmodul3_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B27A4E-A0A1-4EBD-BC10-247880F872CC}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|c:\\users\\naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B27A4E-A0A1-4EBD-BC10-247880F872CC}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|solutionrelative:tpmodul3_2311104078\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2311104078\\KodePos.cs",
+              "ToolTip": "C:\\Users\\Naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\KodePos.cs*",
+              "RelativeToolTip": "tpmodul3_2311104078\\KodePos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:19:31.954Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul3_2311104078\\Program.cs",
-              "ToolTip": "C:\\Users\\Naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\Program.cs",
-              "RelativeToolTip": "tpmodul3_2311104078\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Naura\\source\\repos\\tpmodul3_2311104078\\tpmodul3_2311104078\\Program.cs*",
+              "RelativeToolTip": "tpmodul3_2311104078\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T14:52:32.422Z",
               "EditorCaption": ""
