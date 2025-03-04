@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 class KodePos
 {
-    // Dictionary untuk menyimpan daftar kode pos berdasarkan kelurahan
     private static Dictionary<string, string> kodePosTable = new Dictionary<string, string>
     {
         { "Batununggal", "40266" },
@@ -19,23 +18,20 @@ class KodePos
         { "Samoja", "40273" }
     };
 
-    // Method untuk mendapatkan kode pos berdasarkan kelurahan
     public static string getKodePos(string? kelurahan)
     {
-        // Jika kelurahan null atau kosong, kembalikan pesan error
         if (string.IsNullOrEmpty(kelurahan))
         {
             return "Nama kelurahan tidak boleh kosong.";
         }
 
-        // Cek apakah kelurahan ada dalam Dictionary
         if (kodePosTable.ContainsKey(kelurahan))
         {
-            return kodePosTable[kelurahan]; // Kembalikan kode pos jika ditemukan
+            return kodePosTable[kelurahan]; 
         }
         else
         {
-            return "Kode Pos tidak ditemukan."; // Jika tidak ditemukan, berikan pesan ini
+            return "Kode Pos tidak ditemukan."; 
         }
     }
 }
