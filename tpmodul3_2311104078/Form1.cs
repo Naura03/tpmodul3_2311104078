@@ -16,5 +16,19 @@ namespace tpmodul3_2311104078
         {
             InitializeComponent();
         }
+
+        private void buttonSubmit_Click(object sender, EventArgs e)
+        {
+            string nama = textBoxInput.Text;
+
+            if (!string.IsNullOrWhiteSpace(nama))
+            {
+                labelOutput.Text = "Halo " + nama;
+            }
+            else
+            {
+                labelOutput.Text = "Nama tidak boleh kosong.";
+            }
+        }
     }
 }

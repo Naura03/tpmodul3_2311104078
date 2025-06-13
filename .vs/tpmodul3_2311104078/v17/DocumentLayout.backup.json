@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 3\\tpmodul3_2311104078\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CF0BF32-9938-4034-B49B-1FA065D467B5}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF0BF32-9938-4034-B49B-1FA065D467B5}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|solutionrelative:tpmodul3_2311104078\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CF0BF32-9938-4034-B49B-1FA065D467B5}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2CF0BF32-9938-4034-B49B-1FA065D467B5}|tpmodul3_2311104078\\tpmodul3_2311104078.csproj|solutionrelative:tpmodul3_2311104078\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,11 +23,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2311104078\\Form1.cs",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\Form1.cs*",
+              "RelativeToolTip": "tpmodul3_2311104078\\Form1.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:55:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\Form1.cs",
               "RelativeDocumentMoniker": "tpmodul3_2311104078\\Form1.cs",
-              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\Form1.cs [Design]",
-              "RelativeToolTip": "tpmodul3_2311104078\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 3\\tpmodul3_2311104078\\tpmodul3_2311104078\\Form1.cs [Design]*",
+              "RelativeToolTip": "tpmodul3_2311104078\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T07:43:50.735Z",
               "EditorCaption": " [Design]"
